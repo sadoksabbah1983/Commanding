@@ -50,3 +50,6 @@ c:\users\sabbah\documents\visual studio 2015\Projects\CommandPrism\CommandPrism\
 E:\sabbah\git\1\CommandPrism\CommandPrism\bin\Debug\CommandPrism.exe.config
 E:\sabbah\git\1\CommandPrism\CommandPrism\obj\Debug\CommandPrism.exe
 E:\sabbah\git\1\CommandPrism\CommandPrism\obj\Debug\CommandPrism.pdb
+E:\Projects\Commanding\CommandPrism\CommandPrism\bin\Debug\CommandPrism.exe.config
+E:\Projects\Commanding\CommandPrism\CommandPrism\obj\Debug\CommandPrism.exe
+E:\Projects\Commanding\CommandPrism\CommandPrism\obj\Debug\CommandPrism.pdb
